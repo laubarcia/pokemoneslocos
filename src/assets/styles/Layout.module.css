@@ -1,0 +1,11 @@
+.layoutContenedor {
+    height: calc(100vh - 120px) !important;
+    background: url('https://www.einerd.com.br/wp-content/uploads/2018/06/pok%C3%A9mon-alimento-capa-e1559149719440.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* opacity: 0.4; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

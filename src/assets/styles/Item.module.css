@@ -1,0 +1,24 @@
+.itemsPokelista {
+    width: 150px;
+    height: 50px;
+    margin: 10px 10px;
+    background-color: #e3e3e3;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 3px 5px 4px 0px rgba(171,169,169,0.75);
+-webkit-box-shadow: 3px 5px 4px 0px rgba(171,169,169,0.75);
+-moz-box-shadow: 3px 5px 4px 0px rgba(171,169,169,0.75);
+}
+
+.itemsPokelista:active {
+    background-color: #bcbbbb;
+}
+
+.nombrePokemon {
+    text-decoration: none;
+    color: #2A254D;
+}
